@@ -5,6 +5,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
 # REUSE Example
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmtunwal%2Freuse-example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmtunwal%2Freuse-example?ref=badge_shield)
+
 
 This file is an example repository for REUSE compliance.  It is identical to
 the example provided in [the tutorial](https://reuse.software/tutorial).
@@ -18,3 +20,7 @@ links to the branches:
 - Non-compliant: <https://github.com/fsfe/reuse-example/tree/noncompliant>
 
 Feel free to poke around!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmtunwal%2Freuse-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmtunwal%2Freuse-example?ref=badge_large)
